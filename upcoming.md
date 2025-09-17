@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Upcoming Talks
+permalink: /upcoming/
 ---
 
 # Upcoming Seminars
