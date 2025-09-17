@@ -15,15 +15,15 @@ We have discussions & seminars related to what we do / want to do.
 **Title:** Beta function in Thirring model  
 **Location:** FB382
 
-Aleena will show the computation
+Aleena will show the computation presented in  https://lib-extopc.kek.jp/preprints/PDF/1989/8909/8909322.pdf
 
 ---
 
 ## How to Join
 
-- **In Person:** [Building, Room Number]
+- **In Person:** [Faculty Building, 379, 382]
 
-- **Mailing List:** [Contact email to join]
+- **Mailing List:** [santanum20@iitk.ac.in]
 
 ## Upcoming Talks
 
