@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles for research group */
+.seminar-entry {
+  border-left: 4px solid #0366d6;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+
+.speaker-info {
+  font-weight: bold;
+  color: #586069;
+}
+
+.talk-title {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
