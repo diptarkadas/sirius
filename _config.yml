@@ -1,7 +1,7 @@
 title: Sirius Seminars
 description: We have discussions & seminars related to what we do / want to do.
 theme: minima
-baseurl: ""
+baseurl: "/sirius"
 url: "https://diptarkadas.github.io"
 
 # For minima theme navigation
@@ -9,14 +9,3 @@ header_pages:
   - upcoming.md
   - past.md
   - contact.md
-
-# Optional: Custom navigation (if header_pages doesn't work)
-navigation:
-  - title: Home
-    url: /
-  - title: Upcoming Talks
-    url: /upcoming.html
-  - title: Past Talks
-    url: /past.html
-  - title: Contact
-    url: /contact.html
