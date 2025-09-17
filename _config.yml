@@ -1,16 +1,22 @@
 title: Sirius Seminars
-description: Upcoming talks and seminars
+description: We have discussions & seminars related to what we do / want to do.
 theme: minima
 baseurl: ""
-url: "https://diptarkadas.github.io/sirius"
+url: "https://diptarkadas.github.io"
 
-# Navigation
+# For minima theme navigation
+header_pages:
+  - upcoming.md
+  - past.md
+  - contact.md
+
+# Optional: Custom navigation (if header_pages doesn't work)
 navigation:
   - title: Home
     url: /
   - title: Upcoming Talks
-    url: /upcoming
+    url: /upcoming.html
   - title: Past Talks
-    url: /past
+    url: /past.html
   - title: Contact
-    url: /contact
+    url: /contact.html
