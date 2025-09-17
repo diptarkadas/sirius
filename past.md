@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: Past Talks
+permalink: /past/
 ---
-
 # Past Seminars
 
 ## 2025
