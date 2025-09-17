@@ -5,12 +5,13 @@ title: Past Talks
 
 # Past Seminars
 
-## 2024
+## 2025
 
-**September 20, 2024**  
-Dr. Alice Johnson - "Recent Advances in Deep Learning"
+**September 11, 2025**  
+Santanu Mandal - "Comments on QED_3, https://arxiv.org/abs/2508.03532"
 
-**September 13, 2024**  
-Prof. Bob Wilson - "Computational Biology Applications"
+**August 28, 2025**
+Diptarka Das - "String duals of 2D YM, https://arxiv.org/abs/2506.21663"
 
-[Add more past talks as needed]
+
+
