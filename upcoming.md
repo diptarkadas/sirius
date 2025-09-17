@@ -5,26 +5,19 @@ title: Upcoming Talks
 
 # Upcoming Seminars
 
-## Fall 2024
+## Monsoon 2025
 
-### October 2024
+### September 2025
 
-**October 25, 2024 - 3:00 PM**  
-**Speaker:** Dr. Jane Smith, MIT  
-**Title:** "Advanced Machine Learning Techniques"  
-**Location:** Room 101 / [Zoom Link]
+**September 25, 2025 - 4:30 PM**  
+**Speaker:** 
+**Title:** ""  
+**Location:** Room 379 
 
 Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
 ---
 
-**November 1, 2024 - 3:00 PM**  
-**Speaker:** Prof. John Doe, Stanford  
-**Title:** "Future of AI Research"  
-**Location:** Room 101 / [Zoom Link]
 
-Abstract: Sed do eiusmod tempor incididunt ut labore...
 
----
-
-*To suggest a speaker or topic, contact [email@university.edu]*
+*To suggest a speaker or topic, contact [didas@iitk.ac.in]*
