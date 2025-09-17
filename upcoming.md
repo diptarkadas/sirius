@@ -4,21 +4,17 @@ title: Upcoming Talks
 permalink: /upcoming/
 ---
 
-# Upcoming Seminars
+# Upcoming Talks and Seminars
 
-## Monsoon 2025
+## September 2025
 
-### September 2025
+**September 18, 2025 - 2:30 PM**  
+**Speaker:** Aleena G. Tojan  
+**Title:** Beta function in Thirring model  
+**Location:** FB382
 
-**September 25, 2025 - 4:30 PM**  
-**Speaker:** 
-**Title:** ""  
-**Location:** Room 379 
-
-Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+Aleena will show the computation presented in [this paper](https://lib-extopc.kek.jp/preprints/PDF/1989/8909/8909322.pdf)
 
 ---
 
-
-
-*To suggest a speaker or topic, contact [didas@iitk.ac.in]*
+*To suggest a speaker or topic, contact santanum20@iitk.ac.in*
