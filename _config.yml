@@ -3,3 +3,14 @@ description: Upcoming talks and seminars
 theme: minima
 baseurl: ""
 url: "https://diptarkadas.github.io/sirius"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Upcoming Talks
+    url: /upcoming
+  - title: Past Talks
+    url: /past
+  - title: Contact
+    url: /contact
