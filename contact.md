@@ -7,24 +7,21 @@ title: Contact
 
 ## Organizers
 
-**Dr. [Your Name]**  
-Email: [email@university.edu]  
-Office: [Office location]
+*Diptarka Das*  
+Email: didas@iitk.ac.in  
+Office: Old SAC 206
 
-**[Co-organizer if applicable]**  
-Email: [email@university.edu]
+*Santanu Mandal*  
+Email: santanum20@iitk.ac.in
 
 ## Mailing List
 
-To receive announcements about upcoming seminars, send an email to [email@university.edu] with "Subscribe" in the subject line.
+To receive announcements about upcoming seminars, send an email to santanum20@iitk.ac.in with "Subscribe" in the subject line.
 
 ## Location
 
 **Regular Meeting Location:**  
-[Building Name]  
-Room [Number]  
-[University Name]  
-[Address]
-
-**Online Access:**  
-[Standing Zoom/Teams link if applicable]
+Faculty Building  
+Room 379, 382 
+IIT-Kanpur 
+Kanpur 208016
