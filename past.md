@@ -17,7 +17,7 @@ Tarun Yadav talked about Sphelerons in phi4 and their instabilities following [t
 
 Sandipan Rakshit summarized [this preprint](https://arxiv.org/abs/2308.08340) paper which tried to detect false / true initial vacuum using quantum quenches.
 
-Anurag Sakrkar talked about classical chaos in black ring geometries using time delays following [this preprint](https://arxiv.org/abs/2508.09669)
+Anurag Sarkar talked about classical chaos in black ring geometries using time delays following [this preprint](https://arxiv.org/abs/2508.09669)
 
 Diptarka Das briefly mentioned first half of 2D YM as String theory paper :  [this preprint](https://arxiv.org/abs/2506.21663)
 
