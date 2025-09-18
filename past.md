@@ -23,6 +23,10 @@ Diptarka Das briefly mentioned first half of 2D YM as String theory paper :  [th
 
 **September**
 
+Date: 18.09.2025  
+
+Aleena G. Tojan started to talk about Beta function in Thirring model following [this paper](https://lib-extopc.kek.jp/preprints/PDF/1989/8909/8909322.pdf)
+
 Date : 11.09.2025
 
 Santanu Mandal talked about aspects of QED3 in magnetic fields summarizing the first half of [this preprint](https://arxiv.org/abs/2508.03532)
