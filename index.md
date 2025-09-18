@@ -24,6 +24,3 @@ Aleena will show the computation presented in [this paper](https://lib-extopc.ke
 - **In Person:** Faculty Building, 379, 382
 - **Mailing List:** santanum20@iitk.ac.in
 
-## Upcoming Talks
-
-See our [upcoming talks](/upcoming/) for all upcoming seminars.
