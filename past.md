@@ -8,6 +8,18 @@ permalink: /past/
 
 ## 2025
 
+**September**
+
+Date: 18.09.2025  
+
+Aleena G. Tojan started to talk about Beta function in Thirring model following [this paper](https://lib-extopc.kek.jp/preprints/PDF/1989/8909/8909322.pdf)
+
+Date : 11.09.2025
+
+Santanu Mandal talked about aspects of QED3 in magnetic fields summarizing the first half of [this preprint](https://arxiv.org/abs/2508.03532)
+
+Diptarka Das talked a bit about HP Black holes and started to talk on [this preprint](https://arxiv.org/abs/2509.02905)
+
 
 **August** 
 
@@ -20,18 +32,6 @@ Sandipan Rakshit summarized [this preprint](https://arxiv.org/abs/2308.08340) pa
 Anurag Sarkar talked about classical chaos in black ring geometries using time delays following [this preprint](https://arxiv.org/abs/2508.09669)
 
 Diptarka Das briefly mentioned first half of 2D YM as String theory paper :  [this preprint](https://arxiv.org/abs/2506.21663)
-
-**September**
-
-Date: 18.09.2025  
-
-Aleena G. Tojan started to talk about Beta function in Thirring model following [this paper](https://lib-extopc.kek.jp/preprints/PDF/1989/8909/8909322.pdf)
-
-Date : 11.09.2025
-
-Santanu Mandal talked about aspects of QED3 in magnetic fields summarizing the first half of [this preprint](https://arxiv.org/abs/2508.03532)
-
-Diptarka Das talked a bit about HP Black holes and started to talk on [this preprint](https://arxiv.org/abs/2509.02905)
 
 
 *Past seminars will be listed here after they occur.*
