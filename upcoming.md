@@ -15,6 +15,10 @@ permalink: /upcoming/
 
 Aleena will show the computation presented in [this paper](https://lib-extopc.kek.jp/preprints/PDF/1989/8909/8909322.pdf)
 
+**September 25, 2025**
+
+We will meet online.
+
 ---
 
 *To suggest a speaker or topic, contact santanum20@iitk.ac.in*
